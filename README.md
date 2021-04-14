@@ -1,2 +1,2 @@
-# PiakielGithub.io
+# Piakiel.github.io
 Newcomers
